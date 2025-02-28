@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        SONAR_TOKEN = '5e79d94b-c316-422b-bf10-54a54f352231'
+        SONAR_TOKEN = 'squ_230e7ecb286db8b9e01f1b256bf40fc2c1ff45e3'
     }
 
     tools {
